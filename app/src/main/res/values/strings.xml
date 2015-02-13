@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeviceResourcesConfiguration</string>
+    <string name="device_config">Look at the LogCat for the device configuration</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
